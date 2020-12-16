@@ -85,5 +85,4 @@ If present, environment variables are read from `/.env`. E.g., your `/.env` coul
 
 ```env
 API_BASE_URL=https://foo.bar
-MAX_CV_SIZE_IN_BYTES=25000000
 ```
